@@ -21,5 +21,3 @@ Phase 1 in progress: setting up data loading and initial exploration in Google C
 ## Dataset
 [FETAL_PLANES_DB](https://zenodo.org/record/3904280), a public dataset of fetal ultrasound images labelled by anatomical plane, released via Zenodo.
 
-## Background
-Built by a physician (MBBS, MRCP Part 1) transitioning into clinical AI, with no prior coding experience, as part of a structured effort to build practical, demonstrable ML skills.
